@@ -11,12 +11,17 @@
 >在根目錄打開兩個terminal
 >
 >第一個terminal:
+
 >npm install
+
 >npm run devstart
 >
 >第二個terminal:
+
 >cd client
+
 >npm install
+
 >npm start
 >
 >完成上述動作後開啟browser，連到localhost://3000即可開始使用
